@@ -1,4 +1,4 @@
-module github.com/xieyuschen/grillen
+module github.com/xieyuschen/grillen/template
 
 go 1.17
 
